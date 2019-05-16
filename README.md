@@ -3,7 +3,7 @@ itdalu or information that drifts and lingers under - is a work by artist Camero
 
 The text is an essay by philosopher David Chalmers titled Facing up to the Problem of Consciousness (1995). Chalmers analyses the ‘hard problem’ or what is understood better as the enigmatic quality of subjective conscious experience.
 
-The three-screen installation looks to exhibit the translation of text, to searched google images, and subsequently to re-pixelated image.   
+The three-screen installation looks to present the translation of text to searched google images and subsequent transition to re-pixelated digital image.  
 
 The processing algorithm can be accessed and is available open source via this GitHub page. There is also a second link to the python script written by Hardik Vasa that enables the downloading of google images. 
 
