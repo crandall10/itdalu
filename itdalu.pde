@@ -15,7 +15,7 @@ boolean b_Sticky = true;
 int b_count = 0;
 
 //Threshold for while black is sticky - Threshold adjustable 
-int seedVal = 1722; //Thresold 1080p 
+int seedVal = 1722; // Threshold 1080p 
 //int seedVal = 3720; // Threshold 4k 
 
 public void settings() {
