@@ -11,3 +11,5 @@ The processing algorithm can be accessed and is available open source via this G
 
 The artist would like to thank John Wild, Ben Alexander and Mayur Dave each who assisted in the coding process.
 
+cameronrandall.com
+
