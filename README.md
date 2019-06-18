@@ -7,7 +7,7 @@ In choosing Chalmers text, I see the work as a philosophical proposal, of how an
 
 The three monitor installation is interconnected by cables that hang, loop and coil - each monitor presenting stages of the translation process: text to downloaded google images and subsequent transition to re-pixelated image.
 
-The processing algorithm can be accessed and is available open source via this GitHub page. There is also a second link to the python script written by Hardik Vasa that enables the downloading of google images.
+The processing algorithm can be accessed and is available open source via this GitHub page. Please, also found the txt.file version of the Chalmers essay. There is also a second link to the python script written by Hardik Vasa that enables the downloading of google images.
 
 The artist would like to thank John Wild, Ben Alexander and Mayur Dave each who assisted in the coding process.
 
